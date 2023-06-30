@@ -21,7 +21,7 @@ eli5
 
 File Descriptions:
 
-emotion_detection.py: This is the main script where all the steps (data loading, preprocessing, model building, evaluation) are performed.
+EmotionDetection.ipynb: This is the main script where all the steps (data loading, preprocessing, model building, evaluation) are performed.
 emotion.csv: This file contains the dataset used for training and testing the model.
 Steps
 
@@ -41,4 +41,4 @@ Results:
 Naive Bayes model achieved an accuracy of 0.56, whereas the Logistic Regression model achieved a better accuracy of 0.63.
 
 How to Run:
-Please see the main script "emotion_detection.py" to run the project.
+Please see the main script "EmotionDetection.ibynp" to run the project.
